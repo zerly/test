@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Competence		TAR	102	nouvelle taille enregistrement : 102
+Competence	IDEleve	RUB+		IDEleve est une nouvelle clé
+Competence_Historique		TAR	102	nouvelle taille enregistrement : 102
+Competence_Historique	IDEleve	RUB+		IDEleve est une nouvelle clé

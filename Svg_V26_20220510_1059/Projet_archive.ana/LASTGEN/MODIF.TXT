@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Eleve		NFI		nouveau fichier
+Competence		NFI		nouveau fichier
+Competence_Historique		NFI		nouveau fichier
